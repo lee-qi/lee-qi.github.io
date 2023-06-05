@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "collab.html",
+    "href": "collab.html",
+    "title": "Collaboration",
+    "section": "",
+    "text": "I am available for informal collaborations and/or short-term consulting contracts regarding fisheries assessments and natural resource management. Please reach out here if you’d like to discuss potential collaboration opportunities."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello!",
@@ -14,27 +21,6 @@
     "text": "Technically my first name is Qi, and my family name is Lee. I grew up as a Chinese Singaporean. In Chinese culture, family names typically come before your own name. Whereas in Singaporean culture, Chinese names are often two syllable names, rather than just one. As such I grew up being referred to as Lee Qi, instead of just Qi. Using Qi alone is more like a dimunitive nickname that my family and some childhood friends use."
   },
   {
-    "objectID": "about.html#my-job",
-    "href": "about.html#my-job",
-    "title": "About",
-    "section": "My Job",
-    "text": "My Job\nI am currently a PhD student at the University of Washington’s School of Aquatic & Fishery Sciences. My research focuses on ecosystem-based approaches to fisheries management- looking at factors influencing fishing behaviour and management strategies for fisheries with limited data and/or capacity. I also make the occasional foray into stock assessment, and I work with and mentor fisheries scientists around the world."
-  },
-  {
-    "objectID": "about.html#my-life",
-    "href": "about.html#my-life",
-    "title": "Lee Qi",
-    "section": "My Life",
-    "text": "My Life\nIn my spare time, I enjoy playing with my foster dog (former foster #4 Bowie pictured here), working on my bicycle, and figuring out what went wrong with my sourdough."
-  },
-  {
-    "objectID": "collab.html",
-    "href": "collab.html",
-    "title": "Collaboration",
-    "section": "",
-    "text": "I am available for informal collaborations and/or short-term consulting contracts regarding fisheries assessments and natural resource management. Please reach out here if you’d like to discuss potential collaboration opportunities."
-  },
-  {
     "objectID": "about.html#my-education",
     "href": "about.html#my-education",
     "title": "Lee Qi",
@@ -47,5 +33,12 @@
     "title": "Lee Qi",
     "section": "My Research",
     "text": "My Research\nMy research focuses on ecosystem-based approaches to fisheries management- looking at factors influencing fishing behaviour and management strategies for fisheries with limited data and/or capacity. I also make the occasional foray into stock assessment, and I work with and mentor fisheries scientists around the world."
+  },
+  {
+    "objectID": "about.html#my-life",
+    "href": "about.html#my-life",
+    "title": "Lee Qi",
+    "section": "My Life",
+    "text": "My Life\nIn my spare time, I enjoy playing with my foster dog (former foster #4 Bowie pictured here), working on my bicycle, and figuring out what went wrong with my sourdough."
   }
 ]
