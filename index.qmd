@@ -1,0 +1,20 @@
+---
+title: "Hello!"
+about: 
+    image: img/ellie.jpeg
+    image-shape: round
+    template: jolla
+    links:
+        - icon: envelope
+          text: Email
+          href: mailto:leeqi@uw.edu
+        - icon: github
+          text: Github
+          href: https://github.com/lee-qi
+        - icon: google
+          text: Google Scholar
+          href: https://scholar.google.com/citations?user=BvH69aQAAAAJ&hl=en&oi=ao
+---
+
+My name is Lee Qi (LEE·chee). I use she/her pronouns. I'm a quantitative fisheries scientist, with a background in population dynamics modelling. Pictured here is my current foster dog [Ellie](https://doggoneseattle.org/adoptable-dogs/#action_0=pet&animalID_0=17746424&petIndex_0=0).
+
