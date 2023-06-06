@@ -22,8 +22,8 @@ website:
 format:
   html:
     theme:
-      dark: [simplex, theme/dark.scss]
-      light: simplex
+      dark: [simplex, theme/custom.scss, theme/dark.scss]
+      light: [simplex, theme/custom.scss]
     css: styles.css
     toc: false
 
