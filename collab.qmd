@@ -1,8 +1,0 @@
----
-title: "Collaboration"
-about: 
-    image: img/profile.jpeg
-    image-shape: rounded
-    template: trestles
----
-
