@@ -1,14 +1,15 @@
 ---
 title: "Collaboration"
 about: 
-    image: img/profile_crop.jpeg
+    image: img/scramp.jpeg
     image-shape: round
     template: jolla
     links:
-        - icon: camera
-          text: Photo Credit
-          href: https://www.margotmckelvie.com/squeakydogstudios
+        - icon: envelope
+          text: Email
+          href: mailto:leeqi@uw.edu
 
 ---
 
 I am available for informal collaborations and/or short-term consulting contracts regarding fisheries assessments and natural resource management. Please reach out [here](mailto:leeqi@uw.edu) if you'd like to discuss potential collaboration opportunities.
+

@@ -6,7 +6,7 @@ about:
     links:
         - icon: camera
           text: Photo Credit
-          href: https://www.margotmckelvie.com/squeakydogstudios
+          href: https://www.margotmckelvie.com
 ---
 
 ### My Name
