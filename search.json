@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "collab.html",
-    "href": "collab.html",
-    "title": "Collaboration",
-    "section": "",
-    "text": "I am available for informal collaborations and/or short-term consulting contracts regarding fisheries assessments and natural resource management. Please reach out here if you’d like to discuss potential collaboration opportunities."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello!",
-    "section": "",
-    "text": "My name is Lee Qi (LEE·chee). I use she/her pronouns. I’m a quantitative fisheries scientist, with a background in population dynamics modelling. Pictured here is my current foster dog Ellie."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Lee Qi",
@@ -25,7 +11,7 @@
     "href": "about.html#my-education",
     "title": "Lee Qi",
     "section": "My Education",
-    "text": "My Education\nI graduated with an IB diploma from the Lester B. Pearson United World College of the Pacific. Thereafter, I received a BSc from the University of Miami, and an MSc from the University of Washington’s School of Aquatic & Fishery Sciences. Currently, I am a PhD student at the University of Washington’s School of Aquatic & Fishery Sciences, co-supervised by Drs. André Punt and Ray Hilborn."
+    "text": "My Education\nI graduated with an International Baccalaureate diploma from the Lester B. Pearson United World College of the Pacific. Thereafter, I received a BSc from the University of Miami, and an MSc from the University of Washington’s School of Aquatic & Fishery Sciences. Currently, I am a PhD student at the University of Washington’s School of Aquatic & Fishery Sciences, co-supervised by Drs. André Punt and Ray Hilborn."
   },
   {
     "objectID": "about.html#my-research",
@@ -40,5 +26,19 @@
     "title": "Lee Qi",
     "section": "My Life",
     "text": "My Life\nIn my spare time, I enjoy playing with my foster dog (former foster #4 Bowie pictured here), working on my bicycle, and figuring out what went wrong with my sourdough."
+  },
+  {
+    "objectID": "collab.html",
+    "href": "collab.html",
+    "title": "Collaboration",
+    "section": "",
+    "text": "I am available for informal collaborations and/or short-term consulting contracts regarding fisheries assessments and natural resource management. Please reach out here if you’d like to discuss potential collaboration opportunities."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "My name is Lee Qi (LEE·chee). I use she/her pronouns. I’m a quantitative fisheries scientist, with a background in population dynamics modelling. Pictured here is my current foster dog Ellie."
   }
 ]
