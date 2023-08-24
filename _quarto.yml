@@ -11,6 +11,8 @@ website:
         text: About
       - href: collab.qmd
         text: Collaboration
+      - href: https://github.com/lee-qi/cv/blob/main/main.pdf
+        text: CV
     tools:
       - icon: envelope
         href: mailto:leeqi@uw.edu
